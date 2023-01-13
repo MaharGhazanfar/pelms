@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666366423080",
+    "project_id": "pelms-f5f06",
+    "storage_bucket": "pelms-f5f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666366423080:android:98cab8394e17b61bd8051d",
+        "android_client_info": {
+          "package_name": "com.example.pelms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666366423080-l6623929pek9j8d5dr58um816hcin86h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pelms",
+            "certificate_hash": "18ee19d8353b1e9a38c5b8a6e2068c0d7fc27eb4"
+          }
+        },
+        {
+          "client_id": "666366423080-43cejkde3r6hcftf507gm4ld53hocibh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYg2wd_VVMwmv4ir8BEUu8m6nynVwqn1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666366423080-43cejkde3r6hcftf507gm4ld53hocibh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
